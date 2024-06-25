@@ -21,4 +21,4 @@ Code accompanying paper "Propagating cortical waves coordinate sensory encoding 
 ## Overview
 This repository is the implementation code of the paper "Propagating cortical waves coordinate sensory encoding and memory retrieval in the human brain". 
 
-The code is currently under construction and will be made available shortly.
+The code will be made available shortly.
